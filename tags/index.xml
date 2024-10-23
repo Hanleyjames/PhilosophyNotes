@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>/PhilosophyNotes/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Oct 2024 17:06:20 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 17:06:20 -0400</lastBuildDate><atom:link href="/PhilosophyNotes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Philosophy</title>
-      <link>/tags/philosophy/</link>
+      <link>/PhilosophyNotes/tags/philosophy/</link>
       <pubDate>Wed, 23 Oct 2024 17:06:20 -0400</pubDate>
       
-      <guid>/tags/philosophy/</guid>
+      <guid>/PhilosophyNotes/tags/philosophy/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Plato</title>
-      <link>/tags/plato/</link>
+      <link>/PhilosophyNotes/tags/plato/</link>
       <pubDate>Wed, 23 Oct 2024 17:06:20 -0400</pubDate>
       
-      <guid>/tags/plato/</guid>
+      <guid>/PhilosophyNotes/tags/plato/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Republic</title>
-      <link>/tags/republic/</link>
+      <link>/PhilosophyNotes/tags/republic/</link>
       <pubDate>Wed, 23 Oct 2024 17:06:20 -0400</pubDate>
       
-      <guid>/tags/republic/</guid>
+      <guid>/PhilosophyNotes/tags/republic/</guid>
       <description></description>
       <content></content>
     </item>
